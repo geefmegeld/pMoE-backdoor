@@ -1,0 +1,6 @@
+Download these dataset first before running the experiments
+
+gtsrb_test_data_sorted.npy: https://drive.google.com/file/d/1yj8R9eQYxU8wHJdqkGtvM0mMdYumgJQU/view?usp=drive_link
+gtsrb_test_label_sorted.npy: https://drive.google.com/file/d/1l4_MFqL6M9BaXXk1V1LL8u1lp5mcHM33/view?usp=drive_link
+gtsrb_train_data_sorted.npy: https://drive.google.com/file/d/1OMqS2nvoAhGSA-nS1cknxuBgeTrFMnTs/view?usp=drive_link
+gtsrb_train_label_sorted.npy: https://drive.google.com/file/d/1i9rIydfCzkZr-inkU9C7EE7yyAvDYWxW/view?usp=drive_link
