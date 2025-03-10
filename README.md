@@ -8,5 +8,8 @@ Code repository for Master thesis on backdoor attacks on a patch-level Mixture o
 - CIFAR-10, https://www.cs.toronto.edu/~kriz/cifar.html
 - GTSRB, https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
+# Datasets
+In the "Datsets" folder, the datasets can be downloaded there. Furthermore, the hello_kitty.jpg is used for the blend attack and needs to be downloaded too to run the experiments
+
 # Usage
-See the Notebooks/ folder for the experiments used in our thesis. To run the experiments, the datasets should first be downloaded.
+See the jupyter notebooks in the "folder" tab for the experiments used in our thesis. To run the experiments, the datasets should first be downloaded.
